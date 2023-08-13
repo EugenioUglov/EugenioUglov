@@ -10,6 +10,7 @@
 - 📄 Check my CV in Italian language [https://www.canva.com/design/DAFbx-dSOiA/3rqbf0uCEwR-VmpY0Jt6Kg/edit?utm_content=DAFbx-dSOiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFbx-dSOiA/3rqbf0uCEwR-VmpY0Jt6Kg/edit?utm_content=DAFbx-dSOiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
