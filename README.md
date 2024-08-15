@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugenio Uglov</h1>
 <h3 align="center">I'm from Ukraine and in love with programming</h3>
 
-- 🔭 I’m currently working on the project to speed up the search for local data called [Yes Sir](https://github.com/EugenioUglov/YesSir_Web)
+- 🔭 I’m currently learning React and Node.js for the development of good quality web applications
 
 - 📫 How to reach me **eugeniouglov@gmail.com**
 
