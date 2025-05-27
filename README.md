@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eugenio Uglov</h1>
 <h3 align="center">I'm from Ukraine and in love with programming</h3>
 
-- 🔭 I’m currently learning React and Node.js for the development of good quality web applications
+- 🔭 I’m currently learning Flutter and developing a program to search local files like in Google search.
 
-- 📫 How to reach me **eugeniouglov@gmail.com**
+- 📫 How to reach me **eugenioprogrammatore@gmail.com**
 
-- 📄 Check my CV in English language [https://www.canva.com/design/DAFcJl3OmOE/diWEQfQK99Sl4YHi8X3mPQ/edit?utm_content=DAFcJl3OmOE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFcJl3OmOE/diWEQfQK99Sl4YHi8X3mPQ/edit?utm_content=DAFcJl3OmOE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- 📄 Check my CV in Italian language [https://www.canva.com/design/DAFbx-dSOiA/3rqbf0uCEwR-VmpY0Jt6Kg/edit?utm_content=DAFbx-dSOiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFbx-dSOiA/3rqbf0uCEwR-VmpY0Jt6Kg/edit?utm_content=DAFbx-dSOiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
+- 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
