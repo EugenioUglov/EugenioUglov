@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugenio Uglov</h1>
-<h3 align="center">I'm from Ukraine and in love with programming</h3>
+<h3 align="center">I am in love with programming, I develop in my working and free time and create my products with maximum pedantry.</h3>
 
 - 🔭 I’m currently learning Flutter and developing a program to search local files like in Google search.
 
