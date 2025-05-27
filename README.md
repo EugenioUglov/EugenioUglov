@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eugenio-uglov-022873214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenio-uglov-022873214" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/eugenio-uglov-022873214" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/google-gmail-envelope-vector-symbol-logo-icon-701751694791058rlo6laiga4.png" alt="eugenio-uglov-022873214" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
