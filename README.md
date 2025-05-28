@@ -13,5 +13,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eugenio-uglov-022873214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenio-uglov-022873214" height="30" width="40" /></a>
-<a href="mailto:eugenioprogrammatore@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="eugenio-uglov-022873214" height="30" width="30" /></a>
+<a href="mailto:eugenioprogrammatore@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="eugenio-uglov-022873214" height="30" /></a>
 </p>
